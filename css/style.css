@@ -112,6 +112,8 @@ header .textos-header {
   text-align: justify;
 }
 
+
+
 /*Galeria portafolio*/
 
 .portafolio {
@@ -162,6 +164,13 @@ header .textos-header {
 .imagen-port:hover .hover-galeria {
   transform: scale(1);
 }
+.contenedor .buttom-port{
+  text-align: center;
+  color: black;
+}
+
+
+
 
 /*Clientes*/
 .cards {

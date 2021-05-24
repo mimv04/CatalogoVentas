@@ -1,0 +1,103 @@
+[
+    {
+      "precio": 60000,
+      "id": 1,
+      "title": "Collar Tiple Poder",
+      "thumbnailUrl":"img/daniela1.jpg"
+    },
+    {
+      "precio": 55000,
+      "id": 2,
+      "title": "Collar 3 Sueños",
+      "thumbnailUrl": "img/daniela2.jpg"
+    },
+    {
+      "precio": 65000,
+      "id": 3,
+      "title": "Collar Amuletos Magicos",
+      "thumbnailUrl": "img/daniela3.jpg"
+    },
+    {
+      "precio":60000,
+      "id": 4,
+      "title": "Dreamer x3",
+      "thumbnailUrl": "img/daniela4.jpg"
+    },
+    {
+      "precio": 28000,
+      "id": 5,
+      "title": "Pulsera Sol y Estrellas",
+      "thumbnailUrl": "img/daniela5.jpg"
+    },
+    {
+      "precio": 33000,
+      "id": 6,
+      "title": "Tobillera Amuletos Magicos",
+      "thumbnailUrl": "img/daniela6.jpg"
+    },
+    {
+      "precio": 33000,
+      "id": 7,
+      "title": "Cadena Multiusos Azul Navy",
+      "thumbnailUrl": "img/daniela7.jpg"
+    },
+    {
+      "precio": 52000,
+      "id": 8,
+      "title": "Set Candongas Rayos x4",
+      "thumbnailUrl": "img/daniela8.jpg"
+    },
+    {
+      "precio": 160000,
+      "id": 9,
+      "title": "Conjunto Flor Lila",
+      "thumbnailUrl": "img/10active1.jpg"
+    },
+    {
+      "precio": 55000,
+      "id": 10,
+      "title": "Buso Tul",
+      "thumbnailUrl": "img/10active4.jpg"
+    },
+    {
+      "precio": 100000,
+      "id": 11,
+      "title": "Leggings Estrellas Rojo",
+      "thumbnailUrl": "img/10active3.jpg"
+    },
+    {
+      "precio": 160000,
+      "id": 12,
+      "title": "Conjunto Blue Night",
+      "thumbnailUrl": "img/10active2.jpg"
+    },
+    {
+      "precio": 99000,
+      "id": 13,
+      "title": "Leggings Cortes Beige",
+      "thumbnailUrl": "img/10active5.jpg"
+    },
+    {
+      "precio": 105000,
+      "id": 14,
+      "title": "Leggings Cortes Beige",
+      "thumbnailUrl": "img/10active6.jpg"
+    },
+    {
+      "precio": 99000,
+      "id": 15,
+      "title": "Leggings Piton Lila",
+      "thumbnailUrl": "img/10active7.jpg"
+    },
+    {
+      "precio": 65000,
+      "id": 16,
+      "title": "Blue WaveWash Top",
+      "thumbnailUrl": "img/10active8.jpg"
+    }
+  ]
+  
+
+  
+
+  
